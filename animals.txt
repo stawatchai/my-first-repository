@@ -7,3 +7,4 @@ Line6
 Lint7
 LineNew
 Not Line8 is Line9
+Same Line8
