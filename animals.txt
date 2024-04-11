@@ -6,3 +6,4 @@ Line5
 Line6
 Lint7
 LineNew
+Same Line8
